@@ -69,10 +69,10 @@ The input image (`test3.png`) from the `dataset/` folder is used for detection.
 - Bounding boxes and detected text are drawn on the image. Below are sample results:
 
 **Result 1:**
-![Result 1](figure_1.png)
+![Result 1](Figure_1.png)
 
 **Result 2:**
-![Result 2](figure_2.png)
+![Result 2](Figure_2.png)
 
 ## Credits
 - EasyOCR: [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
